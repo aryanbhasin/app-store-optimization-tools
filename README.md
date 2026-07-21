@@ -15,3 +15,4 @@
 - [Sensor Tower](https://sensortower.com)
 - [Mobile Action](https://mobileaction.com)
 - [App Follow](https://appfollow.com)
+- [ezscreenshots ASO](https://ezscreenshots.com/aso)
